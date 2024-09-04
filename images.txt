@@ -3,3 +3,4 @@ hello-world
 gethue/hue
 1panel/maxkb:latest
 node:20-alpine
+flowiseai/flowise

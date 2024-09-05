@@ -9,3 +9,4 @@ supabase/edge-runtime:v1.56.1
 supabase/logflare:1.4.0
 supabase/postgres:15.1.1.78
 timberio/vector:0.28.1-alpine
+supabase/realtime:v2.30.34

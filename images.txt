@@ -7,3 +7,4 @@ darthsim/imgproxy:v3.8.0
 supabase/postgres-meta:v0.83.2
 supabase/edge-runtime:v1.56.1
 supabase/logflare:1.4.0
+supabase/postgres:15.1.1.78

@@ -11,3 +11,4 @@ milvusdb/milvus:v2.3.4
 mysql
 freeren/qanything:v1.2.2
 quivr-frontend-prebuilt
+quivr-backend-api:latest

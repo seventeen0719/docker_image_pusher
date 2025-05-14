@@ -1,2 +1,2 @@
 ollama/ollama
-
+vllm/vllm-openai:v0.8.5.post1

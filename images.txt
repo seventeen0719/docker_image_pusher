@@ -4,3 +4,4 @@ nvidia/cuda:11.7.1-cudnn8-runtime-ubuntu22.04
 pytorch/pytorch:1.7.1-cuda11.0-cudnn8-runtime
 
 nvidia/cuda:11.6.2-cudnn8-devel-ubuntu20.04
+yuefan2022/tensorrt-ubuntu20.04-cuda11.6

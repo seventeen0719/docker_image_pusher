@@ -1,1 +1,2 @@
 milvusdb/milvus:v2.5.14
+bitnami/postgresql:17.5.0

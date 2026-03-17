@@ -1,4 +1,1 @@
-milvusdb/milvus:v2.5.14
-bitnami/postgresql:17.5.0
-bitnami/redis:8.0.3
-nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+vllm/vllm-openai:cu130-nightly

@@ -1,1 +1,1 @@
-vllm/vllm-openai:cu130-nightly
+vllm/vllm-openai:cu130-nightly-x86_64

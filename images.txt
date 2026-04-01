@@ -1,4 +1,1 @@
-vllm/vllm-openai:cu130-nightly-x86_64
-vllm/vllm-openai:cu130-nightly-x86_64
-grafana/grafana:main-ubuntu
-bitnami/prometheus:latest
+ubuntu/prometheus:3-24.04_stable

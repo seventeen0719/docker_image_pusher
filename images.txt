@@ -1,2 +1,3 @@
 vllm/vllm-openai:cu130-nightly-x86_64
 vllm/vllm-openai:cu130-nightly-x86_64
+grafana/grafana:main-ubuntu

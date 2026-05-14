@@ -1,1 +1,1 @@
-ubuntu/prometheus:3-24.04_stable
+ opensandbox/execd:v1.0.14

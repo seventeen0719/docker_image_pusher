@@ -1,1 +1,1 @@
- opensandbox/execd:v1.0.14
+python:3.11.15-slim

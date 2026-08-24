@@ -1,2 +1,1 @@
-python:3.11.15-slim
-vllm/vllm-openai:v0.21.0
+vllm/vllm-openai:qwen38-x86_64-cu130

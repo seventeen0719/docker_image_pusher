@@ -1,1 +1,1 @@
-vllm/vllm-openai:qwen38-x86_64-cu130
+lmsysorg/sglang:v0.5.20-cu130

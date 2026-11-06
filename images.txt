@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.5.20-cu130
+opensandbox/execd:v1.2.0
